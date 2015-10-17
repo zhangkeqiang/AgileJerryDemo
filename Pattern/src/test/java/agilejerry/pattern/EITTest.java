@@ -14,7 +14,7 @@ public class EITTest extends TestCase {
 
 	public void testStart() {
 		EEIT eit = new TEIT();
-		assertEquals(5, eit.run());
+		assertEquals(6, eit.run());
 	}
 
 	public void testRun() {
