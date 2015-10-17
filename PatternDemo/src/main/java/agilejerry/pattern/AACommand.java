@@ -10,7 +10,7 @@ public class AACommand implements Command {
 		this.II = 10;
 	}
 	public boolean execute() {
-		System.out.println(II);
+		System.out.println("ddd"  + II);
 		return true;
 	}
 
